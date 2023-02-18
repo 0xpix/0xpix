@@ -7,8 +7,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21217076/pixy)
 -----------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1xy0&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1xy0&hide_progress=true)](https://github.com/P1xy0/github-readme-stats)
-
 
 <!--
 **P1xy0/P1xy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
