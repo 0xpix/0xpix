@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pixy6x)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ns_chlfat)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21217076/pixy)
+
 -----------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1xy0&show_icons=true&theme=onedark)
 
