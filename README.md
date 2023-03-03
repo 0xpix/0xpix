@@ -6,7 +6,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ns_chlfat)
 
 -----------------------------------------------------------------------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=P1xy0&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnu1&show_icons=true&theme=onedark)
 
 <!--
 **P1xy0/P1xy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
