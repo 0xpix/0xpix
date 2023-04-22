@@ -2,7 +2,7 @@
 
 
 -----------------------------------------------------------------------
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pixy6x)
+[![Kaggle]([https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white](https://www.kaggle.com/nschlfat))](https://www.kaggle.com/pixy6x)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ns_chlfat)
 
 -----------------------------------------------------------------------
