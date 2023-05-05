@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some great projects
 - 🌱 I’m currently Deep diving in DL
 - 
+
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
