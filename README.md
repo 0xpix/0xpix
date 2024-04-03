@@ -20,6 +20,8 @@
 🤖 Artificial Intelligence
 
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=jax&logoColor=white)
 
 👩‍💻 IDE
 
