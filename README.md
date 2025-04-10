@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&color=F71A90&repeat=false&width=435&lines=in-progress+.+.+.+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on a website to explain the intuition behind AI 🧠<br>👯 I’m looking to collaborate on NLP projects.<br>🌱 I’m currently expanding my knowledge about AI<br>💬 Ask me about anything<br>⚡ Fun fact: I started playing video games since the age of 3
+🔭 I’m currently working on a website to explain the intuition behind AI 🧠<br>🌱 I’m currently expanding my knowledge about AI<br>💬 Ask me about anything<br>⚡ Fun fact: I started playing video games since the age of 3
 
 
 ## 🌐 Socials:
